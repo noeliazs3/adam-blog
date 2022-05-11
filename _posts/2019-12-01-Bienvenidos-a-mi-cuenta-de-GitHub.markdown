@@ -3,7 +3,7 @@ layout: post
 title: Bienvenidos
 date: 2017-08-20 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: post-6.jpg # Add image post (optional)
+img: bienvenidos.jpg # Add image post (optional)
 tags: [Blog, Bienvenida]
 author: # Add name author (optional)
 ---
@@ -26,3 +26,5 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+
+![Yosh Ginsu]({{site.baseurl}}/assets/img/yosh-ginsu.jpg)
