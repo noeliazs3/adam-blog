@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Bienvenidos
-date: 2017-08-20 13:32:20 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+date: 2021-08-20 13:32:20 +0300
+description: Bienvenida a mi blog # Add post description (optional)
 img: bienvenidos.jpg # Add image post (optional)
 tags: [Blog, Bienvenida]
 author: # Add name author (optional)
